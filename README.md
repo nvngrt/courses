@@ -9,3 +9,4 @@
 * https://www.devtodev.com/education/online-course/ab-tests-from-a-to-b-part1 - A/B-тесты в играх
 * https://www.udemy.com/course/power-bi-in-russian/ - Power BI для начинающих
 * https://www.kaggle.com/learn/pandas - Pandas
+* https://www.kaggle.com/learn/data-cleaning - Data Cleaning
