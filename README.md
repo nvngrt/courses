@@ -10,3 +10,4 @@
 * https://www.udemy.com/course/power-bi-in-russian/ - Power BI для начинающих
 * https://www.kaggle.com/learn/pandas - Pandas
 * https://www.kaggle.com/learn/data-cleaning - Data Cleaning
+* https://stepik.org/course/56280/syllabus - BI разработчик. Основы работы в Tableau (https://public.tableau.com/app/profile/nikita5257)
